@@ -1,0 +1,209 @@
+.elver{
+    width: 500px;
+    height: 800px;
+    background: blue;
+    top: 0px;
+    left: 0px;
+  }
+  
+  img{
+    width: 450px;
+    height: 275px;
+    
+  }
+  
+  .imagen{
+    display: flex;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+  }
+  
+  .mendez{
+    display: flex;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    font-size: 50px;
+    color: white;
+  }
+  
+  .yo{
+    display: flex;
+    position: absolute;
+    top: 370px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+  }
+  
+  .tu{
+    display: flex;
+    position: absolute;
+    top: 425px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+  }
+  
+  .el{
+    display: flex;
+    position: absolute;
+    top: 480px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+  }
+  
+  .ella{
+    display: flex;
+    position: absolute;
+    top: 530px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+  }
+  
+  .ellos{
+    display: flex;
+    position: absolute;
+    top: 570px;
+    left: 150px;
+    font-size: 30px;
+    color: white;
+  }
+  .habi1{
+    display: flex;
+    position: absolute;
+    top: 625px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+  }
+  .habi2{
+    display: flex;
+    position: absolute;
+    top: 700px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+  }
+  
+  .habi3{
+    display: flex;
+    position: absolute;
+    top: 720px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+  }
+  
+  .nombre{
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 515px;
+    font-size: 28px;
+    color: black;
+  }
+  
+  
+  .profesion{
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 515px;
+    font-size: 18px;
+    color: blue;
+  }
+  
+  .info{
+    display: flex;
+    position: absolute;
+    top: 160px;
+    left: 515px;
+    font-size: 18px;
+    color: red;
+  }
+  
+  .descri{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 515px;
+    font-size: 16px;
+    color: black;
+  }
+  .descri1{
+    display: flex;
+    position: absolute;
+    top: 210px;
+    left: 515px;
+    font-size: 16px;
+    color: black;
+  }
+  
+  .edu{
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 515px;
+    font-size: 18px;
+    color: red;
+  }
+  
+  .edu1{
+    display: flex;
+    position: absolute;
+    top: 295px;
+    left: 515px;
+    font-size: 18px;
+    color: black;
+  }
+  
+  .edu2{
+    display: flex;
+    position: absolute;
+    top: 317px;
+    left: 515px;
+    font-size: 18px;
+    color: black;
+  }
+  
+  .edu3{
+    display: flex;
+    position: absolute;
+    top: 340px;
+    left: 515px;
+    font-size: 18px;
+    color: black;
+  }
+  
+  .expe{
+    display: flex;
+    position: absolute;
+    top: 400px;
+    left: 515px;
+    font-size: 18px;
+    color: red;
+  }
+  
+  .expe1{
+    display: flex;
+    position: absolute;
+    top: 460px;
+    left: 515px;
+    font-size: 18px;
+    color: black;
+  }
+  
+  .expe2{
+    display: flex;
+    position: absolute;
+    top:430px;
+    left: 515px;
+    font-size: 18px;
+    color: black;
+  }
+  
+  
